@@ -1,11 +1,9 @@
-import Subdivisao from "@/components/Subdivisao";
+import Linha from "@/components/Linha";
 
 export default function Home() {
   return (
     <>
-      <Subdivisao/>
-      <Subdivisao/>
-      <Subdivisao/>
+      <Linha/>
     </>
   )
 }
