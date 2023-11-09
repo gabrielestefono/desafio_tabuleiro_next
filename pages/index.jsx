@@ -1,9 +1,9 @@
-import Linha from "@/components/Linha";
+import Tabuleiro from '@/components/Tabuleiro';
 
 export default function Home() {
   return (
     <>
-      <Linha/>
+      <Tabuleiro />
     </>
   )
 }
